@@ -186,8 +186,8 @@ promptgate refine my-agent/      # LLM-suggested prompt improvements
   Suggested change based on failing outputs:
   ┌──────────────────────────────────────────────────────┐
   │ Add to your system prompt:                           │
-  │ "Always cite the document chunk you retrieved.      │
-  │  If no chunk exists, say so explicitly."            │
+  │ "Always cite the document chunk you retrieved.       │
+  │  If no chunk exists, say so explicitly."             │
   └──────────────────────────────────────────────────────┘
 ```
 
